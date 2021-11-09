@@ -1,0 +1,2 @@
+# Income-Inequality
+The given census data is about attributes of US citizens (occupation, education, gender, race). with organizations working to ensure equal pay, we will build a model to see how accurately we can classify low income from high income citizens. Building this model will allow us to understand which attributes contribute to affluency and how we can improve policies in the US. Using proper data cleansing techniques that has led us to have the highest quality data to model the problem. Using built model, we will interpret the results and provide suggestions.
